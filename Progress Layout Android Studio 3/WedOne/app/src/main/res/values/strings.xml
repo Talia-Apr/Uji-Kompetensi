@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WedOne</string>
+    <string name="searchview">cari pakaian disini....</string>
+
+    <string-array name="jenisKelamin">
+        <item>Perempuan</item>
+        <item>Laki-Laki</item>
+    </string-array>
+
+    <string-array name="katBaju">
+        <item>Adat</item>
+        <item>Modern</item>
+    </string-array>
+
+</resources>
